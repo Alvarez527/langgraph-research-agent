@@ -46,7 +46,7 @@ Three nodes, two conditional edges:
 ```
                 ┌────────────────────┐
                 │ agent_reasoning    │◄────────┐
-                │ (Claude + tools)   │         │
+                │ (OpenAI + tools)   │         │
                 └─────────┬──────────┘         │
         tool_calls ?      │       no tool_calls│
                 ▼                       ▼      │
